@@ -1,1 +1,6 @@
+
 hello from main
+
+hello from new_branch
+
+оставила записи обеих веток
